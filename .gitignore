@@ -1,0 +1,14 @@
+# Ignore macOS metadata files
+*.zip
+.DS_Store
+._*
+'._*
+.env
+.venv
+certs/
+
+# Ignore Windows metadata files
+Thumbs.db
+
+# Ignore node_modules folder
+node_modules/
